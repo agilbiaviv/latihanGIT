@@ -1,1 +1,3 @@
 ==== LATIHAN GIT ====
+
+FILE TELAH DIUBAH
