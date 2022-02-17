@@ -1,7 +1,4 @@
 ==== LATIHAN GIT ====
-<<<<<<< HEAD
-aplikas
-=======
 
-FILE TELAH DIUBAH
->>>>>>> c6a169964fb0ad6a7b7868e4abf198efd5cb3bb8
+
+tes
